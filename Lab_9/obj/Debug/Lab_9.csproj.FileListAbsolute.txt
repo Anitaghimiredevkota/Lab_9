@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_9\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
